@@ -4,11 +4,9 @@ These proofing files were developed by James Puckett of Dunwich Type Founders. S
 
 These files are provided under the MIT License.
 
-All files are in Indesign CS 2014 format.
+All files are in Indesign format. .indd files are CS2014 format, use .idml files for olcer versions of Indesign. 
 
 Devanagari files use the Rhodium Libre typeface available at: https://github.com/DunwichType/RhodiumLibre
-
-I am aware that Adobe Indesign is not open-source software so don’t waste my time complaining about the file format. 
 
 What’s in the repo:
 * Baseline: Files I use for proofing mostly-complete fonts.
