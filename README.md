@@ -15,13 +15,13 @@ What’s in the repo:
 
 * Diacritical Marks: 
 
-• The forms file is for reviewing letterforms.
+	- The forms file is for reviewing letterforms.
  
-• The words list is a list of real words containing the marks at the beginning, inside, and end of a word. 
+	- The words list is a list of real words containing the marks at the beginning, inside, and end of a word. 
 
-• The combining diacriticals proof is intended for accented letters created on the fly with combining diacritical marks. It is not completely comprehensive as I am just starting to implement this in my own work. I recommend that you use this to compare your work with Tiro Typework’s Brill fonts: http://www.brill.com/about/brill-fonts
+	- The combining diacriticals proof is intended for accented letters created on the fly with combining diacritical marks. It is not completely comprehensive as I am just starting to implement this in my own work. I recommend that you use this to compare your work with Tiro Typework’s Brill fonts: http://www.brill.com/about/brill-fonts
 
-• The UNtext is a sample of the Universal Declaration of Human Rights in numerous languages.
+	- The UNtext is a sample of the Universal Declaration of Human Rights in numerous languages.
 
 * Mockups: Sample layouts for previewing running copy.
 
@@ -31,7 +31,7 @@ What’s in the repo:
 
 * Miscellaneous
 
-• The common English words proof includes hundreds of English words that commonly appear on magazine covers and packages of household goods. It would be great if people would contribute similar lists for other languages, especially the Devanagari languages!
+	- The common English words proof includes hundreds of English words that commonly appear on magazine covers and packages of household goods. It would be great if people would contribute similar lists for other languages, especially the Devanagari languages!
 
 * Devanagari: These are similar to the Latin files, with brute force proofs for two-consonant conjuncts and some localization proofs for Marathi and Nepali.
 
