@@ -4,7 +4,7 @@ These proofing files were developed by James Puckett of Dunwich Type Founders. S
 
 These files are provided under the MIT License.
 
-All files are in Indesign format. .indd files are CS2014 format, use .idml files for older versions of Indesign. 
+All files are in Indesign format. .indd files are in CS2014 or CS2015 formats. Use .idml files for older versions of Indesign. 
 
 Devanagari files use the Rhodium Libre typeface available at: https://github.com/DunwichType/RhodiumLibre
 
@@ -34,6 +34,8 @@ What’s in the repo:
 	- The common English words proof includes hundreds of English words that commonly appear on magazine covers and packages of household goods. It would be great if people would contribute similar lists for other languages, especially the Devanagari languages!
 
 * Devanagari: These are similar to the Latin files, with brute force proofs for two-consonant conjuncts and some localization proofs for Marathi and Nepali.
+
+* Kannada: These are similar to the latin—lots of brute force proofing. At present I am developing these for my Padyakke thin font, so the text is huge. If you want to use with regular or heavy weights you should reformat the text.
 
 If you would like to support the development of these proofs buy my fonts at: http://dunwichtype.com
 
